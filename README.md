@@ -1,4 +1,4 @@
-## gmail-server-nodejs
+## Gmail Server to send Mails from your web-app !
 A Gmail API based e-mail sending server using nodeJS and express. 
 
 ## How to get this running 
