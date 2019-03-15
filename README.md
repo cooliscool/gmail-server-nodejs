@@ -17,3 +17,7 @@ Params :
 1. secret : the pre-shared secret saved in index.js
 2. dest   : destination mail 
 3. body   : email body
+
+## What's Cool
+1. Use this to monitor various processes in your system, send the details to your Gmail.
+2. No need for getting a paid E-mail Iaas vendor like Send-Grid. Frugal! 
