@@ -18,6 +18,21 @@ Params :
 2. dest   : destination mail 
 3. body   : email body
 
+## Some possible errors and how to get around them
+
+### undefined xxx
+this is about a missing node js dependency
+
+solution : 
+1. perform a quick googling for finding what package xxx belongs to
+2. go to the project root folder 
+3. run "npm install correspondingPackage"
+
+### port already in use
+
+change port in index.js
+
+
 ## What's Cool
 1. Use this to monitor various processes in your system, send the details to your Gmail.
 2. No need for getting a paid E-mail Iaas vendor like Send-Grid. Frugal! 
