@@ -39,3 +39,6 @@ change port in index.js
 ## What's Cool
 1. Use this to monitor various processes in your system, send the details to your Gmail.
 2. No need for getting a paid E-mail Iaas vendor like Send-Grid. Frugal! 
+
+## Why this project sucks.
+I don't know. Help me out if you find something.
