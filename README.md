@@ -18,6 +18,10 @@ Params :
 2. dest   : destination mail 
 3. body   : email body
 
+## Dependencies
+
+will be updated soon. I'll try to release binaries. 
+
 ## Some possible errors and how to get around them
 
 ### undefined xxx
@@ -31,7 +35,6 @@ solution :
 ### port already in use
 
 change port in index.js
-
 
 ## What's Cool
 1. Use this to monitor various processes in your system, send the details to your Gmail.
